@@ -6,7 +6,7 @@ Most recently I built [Tumbleweed](https://tumbleweed-cdc.github.io/), an open-s
 
 For more information check out the Tumbleweed case study [here](https://tumbleweed-cdc.github.io/docs/introduction)!
 
-### Technologies I have experience with:
+**Technologies I have experience with:**
 | Category | Technologies |
 | --- | --- |
 | Programming Languages | ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat) ![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat) ![Ruby Badge](https://img.shields.io/badge/Ruby-CC342D?logo=ruby&logoColor=fff&style=flat) ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat) |
