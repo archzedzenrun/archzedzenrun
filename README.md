@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi there, I'm Cruz 👋
+
+I'm a fullstack software engineer with proficiency in JavaScript, TypeScript, Ruby and AWS. 
+
+Most recently I built [Tumbleweed](https://tumbleweed-cdc.github.io/), an open-source framework designed for fast and consistent data propagation between microservices using Change Data Capture (CDC) and the transactional outbox pattern. It automatically deploys a self-hosted log-based CDC pipeline that abstracts away the complexities associated with setting up and using CDC tools. It is designed to monitor changes in one or more PostgreSQL databases and sync that data to consumer microservices in near real-time.
 
 <!--
 **archzedzenrun/archzedzenrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
