@@ -18,6 +18,7 @@ For more information check out the Tumbleweed case study [here](https://tumblewe
 | Other | ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat) ![NGINX Badge](https://img.shields.io/badge/NGINX-009639?logo=nginx&logoColor=fff&style=flat) ![Apache Kafka Badge](https://img.shields.io/badge/Apache%20Kafka-231F20?logo=apachekafka&logoColor=fff&style=flat) ![](https://custom-icon-badges.demolab.com/badge/Debezium-yellow?logo=debezium&logoColor=white)|
 
 📫 **Reach me at:**
+
 [LinkedIn](https://linkedin.com/in/cruzmhernandez) | [Gmail](Mailto:cmhernandezdev@gmail.com)
 
 <!--
