@@ -7,8 +7,7 @@ Most recently I built [Tumbleweed](https://tumbleweed-cdc.github.io/), an open-s
 For more information check out the Tumbleweed case study [here](https://tumbleweed-cdc.github.io/docs/introduction)!
 
 ## 📫 Reach me at:
-[LinkedIn](https://linkedin.com/in/cruzmhernandez)
-[Gmail](Mailto:cmhernandezdev@gmail.com)
+[LinkedIn](https://linkedin.com/in/cruzmhernandez) | [Gmail](Mailto:cmhernandezdev@gmail.com)
 
 <!--
 **archzedzenrun/archzedzenrun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
